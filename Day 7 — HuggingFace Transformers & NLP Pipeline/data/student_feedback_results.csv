@@ -1,0 +1,21 @@
+Feedback,Sentiment,Confidence
+The lecture on neural networks was explained very clearly.,POSITIVE,0.997
+I finally understood backpropagation after this class.,POSITIVE,0.6426
+The professor made machine learning concepts easy to grasp.,POSITIVE,0.9975
+"Excellent teaching style, very engaging and interactive.",POSITIVE,0.9999
+The examples used in class were very practical and helpful.,POSITIVE,0.9996
+I really enjoyed the hands-on coding sessions.,POSITIVE,0.9998
+The course material was well organized and easy to follow.,POSITIVE,0.9998
+"Best ML course I have taken, highly recommended.",POSITIVE,0.9995
+The teacher is very patient and answers all questions.,POSITIVE,0.9995
+I feel confident about applying ML after this course.,POSITIVE,0.9993
+"The lectures move too fast, hard to keep up with the pace.",NEGATIVE,0.9997
+I struggled to understand the math behind the algorithms.,NEGATIVE,0.9997
+More practical examples would have been helpful.,NEGATIVE,0.9987
+The assignments were too difficult without enough guidance.,NEGATIVE,0.9997
+I wish there were more office hours for extra help.,NEGATIVE,0.9994
+Some topics felt rushed and needed more explanation.,NEGATIVE,0.9996
+The course content was too theoretical and less practical.,NEGATIVE,0.9998
+I had difficulty understanding the Python coding parts.,NEGATIVE,0.9997
+The course covered many topics but felt a bit overwhelming.,NEGATIVE,0.9969
+"It was an average experience, neither too hard nor too easy.",NEGATIVE,0.9862
