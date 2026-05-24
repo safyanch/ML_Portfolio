@@ -1,0 +1,6 @@
+sentiment,score,key_issue,key_praise,action_need,feedback
+Positive,9,,excellent and very clear,false,The neural network lecture was excellent and very clear.
+Negative,2,math went by too fast without examples,null,true,I could not follow the math — too fast and no examples.
+Neutral,5,parts confusing,some parts good,true,"Average class, some parts good some parts confusing."
+positive,10,,professor,false,Best course I have taken! Highly recommend this professor.
+Negative,2,lack of guidance,,True,The assignments had no guidance and I felt lost throughout.
