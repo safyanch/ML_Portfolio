@@ -1,0 +1,7 @@
+question,answer,chunks_retrieved,in_scope
+What is a neural network?,I cannot find this in the provided lecture notes.,3,True
+How does backpropagation work?,I cannot find this in the provided lecture notes.,3,True
+What is the difference between overfitting and underfitting?,I cannot find this in the provided lecture notes.,3,True
+What activation functions are discussed in the notes?,I cannot find this in the provided lecture notes.,3,True
+What is gradient descent and how is it used?,I cannot find this in the provided lecture notes.,3,True
+What is the recipe for biryani?,I cannot find this in the provided lecture notes.,3,False
