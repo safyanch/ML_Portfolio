@@ -11,3 +11,4 @@ python-dotenv
 groq
 faiss-cpu
 tiktoken
+protobuf==3.20.3
